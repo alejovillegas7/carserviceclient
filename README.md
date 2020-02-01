@@ -5,7 +5,7 @@ ng g s shared/owner/owner
 
 se usaron los siguientes comandos para crear los componentes encargados de administrar los owners:
 
-ng g c car-list
+ng g c owner-list
 
-ng g c car-edit
+ng g c owner-edit
 
